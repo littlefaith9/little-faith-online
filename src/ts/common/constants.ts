@@ -1,0 +1,10 @@
+export const SECOND = 1000;
+
+export const screenWidth = 640;
+export const screenHeight = 480;
+export const fps = 24;
+
+export const colorCodes = [
+    0x000000, 0x000084, 0x008200, 0x008284, 0x840000, 0x840084, 0x848200, 0xc6c3c6,
+    0x828282, 0x0000ff, 0x00ff00, 0x00ffff, 0xff0000, 0xff00ff, 0xffff00, 0xffffff,
+];

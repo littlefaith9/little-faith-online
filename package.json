@@ -1,5 +1,5 @@
 {
-  "name": "littlefaith9.github.io",
+  "name": "little-faith-online",
   "version": "0.1.2",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littlefaith9/littlefaith9.github.io.git"
+    "url": "git+https://github.com/littlefaith9/little-faith-online.git"
   },
   "author": "littlefaith9",
-  "license": "ISC",
+  "license": "GPLv3.0",
   "bugs": {
-    "url": "https://github.com/littlefaith9/littlefaith9.github.io/issues"
+    "url": "https://github.com/littlefaith9/little-faith-online/issues"
   },
-  "homepage": "https://github.com/littlefaith9/littlefaith9.github.io#readme",
+  "homepage": "https://github.com/littlefaith9/little-faith-online#readme",
   "dependencies": {
     "canvas": "^2.9.1",
     "html-webpack-plugin": "^5.5.0",
